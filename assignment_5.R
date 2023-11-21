@@ -138,7 +138,6 @@ us_history
 # Here's the text of a Wikipedia article.
 # I want to know which years are mentioned in the text.
 # Write a regex that can extract all the years from the text.
-# (Be careful! There are some numbers like 8888 in this article)
 # Don't worry about any years before 1000, we're a young country
 
 year_regex <- ""
